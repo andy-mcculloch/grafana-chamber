@@ -1,5 +1,5 @@
 # https://github.com/grafana/grafana-docker
-FROM grafana/grafana:6.7.3
+FROM grafana/grafana:7.0.0-beta1
 
 # Install chamber
 USER root
